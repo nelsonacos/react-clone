@@ -6,7 +6,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/nelsonacos/react-clone/graphs/contributors]
+[contributors-shield]: https://img.shields.io/github/contributors/nelsonacos/react-clone.svg?style=for-the-badge
+[https://github.com/nelsonacos/react-clone/graphs/contributors]
 [![Forks][forks-shield]][https://github.com/nelsonacos/react-clone/network/members]
 [![Stargazers][stars-shield]][https://github.com/nelsonacos/react-clone/stargazers]
 [![Issues][issues-shield]][https://github.com/nelsonacos/react-clone/issues]
