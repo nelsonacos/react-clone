@@ -1,18 +1,11 @@
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[contributors-shield]: https://img.shields.io/github/contributors/nelsonacos/react-clone.svg?style=for-the-badge
-[https://github.com/nelsonacos/react-clone/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/nelsonacos/react-clone/network/members]
-[![Stargazers][stars-shield]][https://github.com/nelsonacos/react-clone/stargazers]
-[![Issues][issues-shield]][https://github.com/nelsonacos/react-clone/issues]
-[![MIT License][license-shield]][https://github.com/nelsonacos/readme-sample/blob/master/LICENSE.txt]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/]
+
+[![GitHub contributors](https://img.shields.io/github/contributors/nelsonacos/react-clone.svg?style=for-the-badge)](https://github.com/nelsonacos/react-clone/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/nelsonacos/react-clone?style=for-the-badge)](https://github.com/nelsonacos/react-clone/issues)
+[![GitHub forks](https://img.shields.io/github/forks/nelsonacos/react-clone?style=for-the-badge)](https://github.com/nelsonacos/react-clone/network)
+[![GitHub stars](https://img.shields.io/github/stars/nelsonacos/react-clone?style=for-the-badge)](https://github.com/nelsonacos/react-clone/stargazers)
+[![GitHub license](https://img.shields.io/github/license/nelsonacos/react-clone?style=for-the-badge)](https://github.com/nelsonacos/react-clone/blob/main/LICENSE)
+[![Linkedin url](https://img.shields.io/badge/-LinkedIn-black.svg?color=%23555555&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/desarrolladorpython/)
 
 <!-- PROJECT LOGO -->
 <br />
