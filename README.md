@@ -29,3 +29,29 @@
     <a href="https://github.com/nelsonacos/react-clone/issues">Solicitudes</a>
   </p>
 </div>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Tabla de contenido</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">Sobre el proyecto</a>
+      <ul>
+        <li><a href="#built-with">Construido con</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Empezando</a>
+      <ul>
+        <li><a href="#prerequisites">Requisitos previos</a></li>
+        <li><a href="#installation">Instalación</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Uso</a></li>
+    <li><a href="#roadmap">Hoja de ruta</a></li>
+    <li><a href="#contributing">Contribuyendo</a></li>
+    <li><a href="#license">Licencia</a></li>
+    <li><a href="#contact">Contacto</a></li>
+    <li><a href="#acknowledgments">Expresiones de gratitud</a></li>
+  </ol>
+</details>
