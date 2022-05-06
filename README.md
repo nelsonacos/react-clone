@@ -55,3 +55,21 @@
     <li><a href="#acknowledgments">Expresiones de gratitud</a></li>
   </ol>
 </details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## Sobre el proyecto
+
+![React Clone Screen Shot](/images/screenshot.png)
+
+React es JavaScript, así que husmear un poco más en como está construida la librería y reconstruirla, aunque sea de una manera sencilla afianzara las bases en los fundamentos de JavaScript y mejorara la comprensión de React. Entenderá mucho más sobre las características de JavaScript utilizadas en la librería y encontrará muchos más casos de usos en la vida real.
+
+Motivación:
+* No debería usar las cosas como una caja negra sin saber como funcionan, siempre es bueno mirar debajo del capo.
+* Le conducirá en el camino correcto hacia un desarrollador avanzado en JavaScript y React.
+* Tendrá un repositorio de tipo cajón aprendizaje al cual volver y agregar una característica nueva que desea implementar, quizás termine construyendo una gran librería en el futuro. 
+
+Así que estaré agregando más en un futuro cercano. También puede sugerir cambios bifurcando este repositorio y creando una solicitud o abriendo un problema. 
+
+<p align="right">(<a href="#top"volver arriba</a>)</p>
